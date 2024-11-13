@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    url: '/' 
+    url: '/'
 # '#about'
     weight: 10
   - name: Teaching
@@ -15,7 +15,7 @@ main:
 #  - name: Data science
 #    url: '/course/example/'
 #    weight: 20
-#    parent: Teaching        
+#    parent: Teaching
 #  - name: Posts
 #    url: '#posts'
 #    weight: 10
@@ -41,5 +41,5 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: Resume
-    url: uploads/cv.pdf
+    url: uploads/ESF_C.pdf
     weight: 100
