@@ -9,8 +9,8 @@ active: true
 # Design of section
 design:
  background:
-   image: bck.jpg
-   image_darken: 0.01
+   image: bk.jpg
+   image_darken: 0.90
    image_parallax: true
    image_position: center
    image_size: cover

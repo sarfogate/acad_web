@@ -30,7 +30,7 @@ interests:
 education:
   courses:
   - course: PhD Statistics
-    institution: Baylor University
+    institution: Baylor University, Waco-TX
     year: 2026 (Expected)
     
   - course: MSs Statistics
@@ -38,7 +38,7 @@ education:
     year: 2021
     
   - course: BSs Actuarial Science
-    institution: Kwame Nkrumah University of Science & Technology
+    institution: Kwame Nkrumah University of Science & Technology, Kumasi - GH
     year: 2017
 
 # Social/Academic Networking
@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'emmanuel_sarfofosu1@baylor.edu'
+  link: emmanuel_sarfofosu1@baylor.edu
 # - icon: twitter
 #   icon_pack: fab
 #   link: 
