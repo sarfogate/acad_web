@@ -6,7 +6,7 @@
 # Appearance
 
 theme: my_theme
-day_night: false
+day_night: true
 font: my_font_set
 font_size: S
 
@@ -57,7 +57,7 @@ contact_links:
   - icon: linkedin
     icon_pack: fab
     name: LinkedIn Profile
-    link: https://www.linkedin.com/in/benjamin-osafo-agyare/
+    link: https://www.linkedin.com/in/emmanuel-sarfo-fosu
 
 # Site header
 
