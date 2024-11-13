@@ -22,10 +22,10 @@ twitter: ''
 
 #email: bagyare@umich.edu
 #phone: 888 888 88 88
-#address:
+address:
 #  street: 450 Serra Mall
-#  city: Stanford
-#  region: CA
+  city: Stanford
+  region: CA
 #  postcode: '94305'
 #  country: United States
 #  country_code: US
