@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: emmanuel_sarfofosu1@baylor.edu
+  link: mailto:emmanuel_sarfofosu1@baylor.edu
 # - icon: twitter
 #   icon_pack: fab
 #   link: 
@@ -82,9 +82,13 @@ user_groups:
 - Teachers
 ---
 
-I am a 4th-year PhD candidate in the [Statistics Science program](https://statistics.artsandsciences.baylor.edu/) at Baylor University, Waco TX. I was born in the Ashanti region of Ghana. I hold a Bachelors degree in Actuarial Science and a MS degree in Statistics.   
+\textbf{Welcome!}
 
-I am working under the supervision of [Prof. Joon J. Song](https://statistics.artsandsciences.baylor.edu/person/dr-joon-jin-song) and [Prof. Thierry Chekouo](https://sites.google.com/site/chekouoresearch/home?authuser=0), currently focusing on using spatial methodology in modelling predictions in Symbolic data and detection of spatially expressed gene in spatial transcriptomic analysis.
+I am currently a 4th-year PhD candidate in the [Statistics Science program](https://statistics.artsandsciences.baylor.edu/) at Baylor University, located in Waco, TX. My academic journey began in the Ashanti region of Ghana, where I was born and raised. I earned my Bachelor’s degree in Actuarial Science from Kwame Nkrumah University of Science and Technology (KNUST). Following this, I pursued and obtained a Master of Science degree in Statistics from Montana State University, under the esteemed supervision of Dr. Mark Greenwood.
 
-When I have some time to spare, I enjoy listening to music, spending time with my fiance, friends and family and watching soccer (I'm a staunch fan of Manchester United).
+At Baylor University, I am privileged to work under the guidance of [Prof. Joon J. Song](https://statistics.artsandsciences.baylor.edu/person/dr-joon-jin-song) and [Prof. Thierry Chekouo](https://sites.google.com/site/chekouoresearch/home?authuser=0). My current research is centered on the application of spatial methodology in modeling predictions within symbolic data, as well as the detection of spatially expressed genes in spatial transcriptomic analysis. This work aims to advance our understanding and capabilities in these cutting-edge areas of statistical science.
+
+Beyond my academic and research pursuits, I find joy in various personal interests. I am an avid music enthusiast and cherish the moments spent with my fiancée, friends, and family. Additionally, I enjoy watching soccer and basketball, which provide a delightful balance to my professional endeavors.
+
+
 
