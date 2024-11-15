@@ -1,10 +1,10 @@
 ---
 # An instance of the Service widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
+widget: blank
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 125
