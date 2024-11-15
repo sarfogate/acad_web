@@ -26,7 +26,7 @@ main:
     url: '/software/'
     weight: 100
   - name: Awards
-    url: '/accomplishment/'
+    url: '/accomplishment'
     weight: 45
 #  - name: Talks
 #    url: '#talks'
@@ -38,7 +38,7 @@ main:
     url: '#contact'
     weight: 60
   - name: Service
-    url: '/service/'
+    url: '/service'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
