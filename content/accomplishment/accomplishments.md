@@ -1,7 +1,7 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: accomplishments
+widget: blank
 
 # Activate this widget? true/false
 active: false
@@ -112,5 +112,5 @@ item:
   url: ""
 
 design:
-  columns: '1' 
+  columns: '2' 
 ---
