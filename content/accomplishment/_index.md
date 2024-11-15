@@ -1,5 +1,5 @@
 ---
-title: Software
+title: Soft
 cms_exclude: true
 
 # View.
