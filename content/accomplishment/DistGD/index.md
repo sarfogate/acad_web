@@ -38,3 +38,12 @@ url_video: ""
 The goal of DistGD (Distributed Gradient Descent) is to efficiently optimize a global objective function expressed as a sum of a list of local objective functions belonging to different agents situated in a network via a cluster architecture like Spark. You supply a list of local objective functions, weights of the connections between the agents, initialize a vector initial values, and it takes care of the computations, returning the optimal values. See [the github page](https://github.com/bosafoagyare/DistGD#installation) for a vignette. 
 
 
+item:
+- certificate_url: ''
+  date_end: ""
+  date_start: "2024-06-02"
+  description: ""
+  organization: Rackham Graduate School
+  organization_url: https://rackham.umich.edu/
+  title: Rackham Conference Travel Grant
+  url: ""
