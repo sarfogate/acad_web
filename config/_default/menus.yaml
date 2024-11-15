@@ -26,7 +26,7 @@ main:
     url: '/software/'
     weight: 100
   - name: Awards
-    url: '#accomplishments'
+    url: '/accomplishments/'
     weight: 45
 #  - name: Talks
 #    url: '#talks'
