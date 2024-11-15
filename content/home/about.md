@@ -10,7 +10,7 @@ active: true
 design:
  background:
    image: bk.jpg
-   image_darken: 0.90
+   image_darken: 0.30
    image_parallax: true
    image_position: center
    image_size: cover
