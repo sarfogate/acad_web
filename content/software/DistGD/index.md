@@ -37,49 +37,4 @@ url_video: ""
 
 The goal of DistGD (Distributed Gradient Descent) is to efficiently optimize a global objective function expressed as a sum of a list of local objective functions belonging to different agents situated in a network via a cluster architecture like Spark. You supply a list of local objective functions, weights of the connections between the agents, initialize a vector initial values, and it takes care of the computations, returning the optimal values. See [the github page](https://github.com/bosafoagyare/DistGD#installation) for a vignette. 
 
----
-item:
-- certificate_url: ''
-  date_end: ""
-  date_start: "2024-06-02"
-  description: ""
-  organization: Rackham Graduate School
-  organization_url: https://rackham.umich.edu/
-  title: Rackham Conference Travel Grant
-  url: ""
 
-- certificate_url: ''
-  date_end: ""
-  date_start: "2024-05-02"
-  description: ""
-  organization: Department of Statistics, University of Michigan, Ann Arbor
-  organization_url: https://lsa.umich.edu/stats
-  title: Outstanding Graduate Student Instructor - Honorable Mention
-  url: ""
-  
-- certificate_url: ''
-  date_end: ""
-  date_start: "2024-03-29"
-  description: ""
-  organization: Michigan Student Symposium for Interdisciplinary Statistical Sciences 
-  organization_url: https://sites.lsa.umich.edu/mssiss/
-  title: Best Poster Award
-  url: ""
-
-- certificate_url: ''
-  date_end: ""
-  date_start: "2021-07-25"
-  description: ""
-  organization: International Association of Black Actuaries (IABA)
-  organization_url: https://www.blackactuaries.org/
-  title: IABA Foundation Scholar
-  url: ""
-  
-- certificate_url: ''
-  date_end: ""
-  date_start: "2022-04-18"
-  description: ""
-  organization: Department of Statistics, University of Michigan, Ann Arbor
-  organization_url: https://lsa.umich.edu/stats
-  title: 1st Place, Capstone Project Competition in Statistical Learning
-  url: ""
