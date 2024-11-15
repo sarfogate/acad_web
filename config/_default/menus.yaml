@@ -28,9 +28,9 @@ main:
   - name: Awards
     url: '/accomplishment'
     weight: 45
-#  - name: Talks
-#    url: '#talks'
-#    weight: 40
+  - name: Work experience
+    url: '/work'
+    weight: 40
 #  - name: Publications
 #    url: '#featured'
 #    weight: 50
