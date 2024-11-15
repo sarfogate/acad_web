@@ -10,7 +10,7 @@ headless: true
 weight: 10
 
 # Section title
-title: Teaching
+title: Teachings
 
 # Section subtitle
 subtitle:
