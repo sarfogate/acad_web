@@ -23,7 +23,7 @@ main:
     url: '#reports'
     weight: 20
   - name: Software
-    url: '#software'
+    url: '/software/'
     weight: 40
   - name: Awards
     url: '#accomplishments'
