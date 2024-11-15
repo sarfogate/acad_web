@@ -1,5 +1,5 @@
 ---
-title: DistGD
+title: DistGDw
 summary: A Distributed Optimization Package in R using Gradient Descent.
 featured: true
 tags:
