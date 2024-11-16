@@ -6,7 +6,7 @@
 # Appearance
 
 theme: my_theme
-day_night: true
+day_night: false
 font: my_font_set
 font_size: S
 
@@ -111,7 +111,7 @@ copyright_license:
   share_alike: true
   allow_commercial: false
   notice: 'This work is licensed under {license}'
-abstract_length: 135
+abstract_length: 100
 plugins_js: []
 avatar:
   gravatar: false
