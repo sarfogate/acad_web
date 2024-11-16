@@ -22,7 +22,6 @@ main:
   - name: Research
     url: '/publication/'
     weight: 20
-    parent: Teaching
   - name: Software
     url: '/software/'
     weight: 100
