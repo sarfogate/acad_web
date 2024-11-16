@@ -30,7 +30,7 @@ item:
   date_end: ""
   date_start: "2024-06-02"
   description: ""
-  organization: Baylor Graduate School
+  organization: Baylor University Graduate School
   organization_url: https://graduate.baylor.edu/
   title: Conference Graduate Travel Grant
   url: ""
@@ -85,7 +85,7 @@ item:
   date_start: "2019-12-11"
   description: ""
   organization: Department of Mathematics & Statistics, University of Nevada, Reno
-  organization_url: https://www.un.edu/math
+  organization_url: https://www.unr.edu/math
   title: 1st Place, Capstone Project Competition in Statistical Computing
   url: ""
 
