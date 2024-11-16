@@ -84,7 +84,7 @@ item:
   date_end: ""
   date_start: "2019-12-11"
   description: ""
-  organization: Department of Mathematics & Statistics, University of Nev, Reno
+  organization: Department of Mathematics & Statistics, University of Nevada, Reno
   organization_url: https://www.un.edu/math
   title: 1st Place, Capstone Project Competition in Statistical Computing
   url: ""
