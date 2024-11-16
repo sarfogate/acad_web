@@ -30,9 +30,9 @@ item:
   date_end: ""
   date_start: "2024-06-02"
   description: ""
-  organization: Rackham Graduate School
-  organization_url: https://rackham.umich.edu/
-  title: Rackham Conference Travel Grant
+  organization: The Graduate School at Baylor University
+  organization_url: https://graduate.baylor.edu/
+  title: Conference Graduate Travel Grant
   url: ""
 
 - certificate_url: ''
@@ -55,7 +55,7 @@ item:
 
 - certificate_url: ''
   date_end: ""
-  date_start: "2021-07-25"
+  date_start: "2022-07-01"
   description: ""
   organization: International Association of Black Actuaries (IABA)
   organization_url: https://www.blackactuaries.org/
@@ -90,7 +90,6 @@ item:
   url: ""
 
 
-
 - certificate_url: ''
   date_end: ""
   date_start: "2017-01-01"
@@ -100,14 +99,6 @@ item:
   title: 1st Place, KNUST Actuarial Club Annual Interclass Quiz Competition
   url: ""
   
-- certificate_url: ''
-  date_end: ""
-  date_start: "2013-09-01"
-  description: "Best student award for the West African Senior School Certificate Examination (Out of over 1,000 candidates at Mpraeso High School in 2013)"
-  organization: Mpraeso High School (WASSCE 2013 sitting)
-  organization_url: ""
-  title: Overall Best Student
-  url: ""
 
 design:
   columns: '1' 
