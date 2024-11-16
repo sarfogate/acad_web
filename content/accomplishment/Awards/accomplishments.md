@@ -30,7 +30,7 @@ item:
   date_end: ""
   date_start: "2024-06-02"
   description: ""
-  organization: The Ohio University
+  organization: Graduate School, Baylor University, Waco
   organization_url: https://graduate.baylor.edu/
   title: Conference Graduate Travel Grant
   url: ""
