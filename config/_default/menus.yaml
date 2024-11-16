@@ -21,7 +21,7 @@ main:
 #    weight: 10
   - name: Research
     url: '/publication/'
-    weight: 20
+    weight: 60
   - name: Software
     url: '/software/'
     weight: 100
