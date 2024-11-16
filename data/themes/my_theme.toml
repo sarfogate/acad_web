@@ -27,12 +27,12 @@ menu_text_active = "#002547"
 menu_title = "#002547"
 
 # Backgrounds
-home_section_odd = "#00284d"
-home_section_even = "#002547"
+home_section_odd = "#adb4ba"
+home_section_even = "#7895b0"
 
-dark_background = "#002547"
-dark_home_section_odd = "#00284d"
-dark_home_section_even = "#002547"
+dark_background = "#7895b0"
+dark_home_section_odd = "#7895b0"
+dark_home_section_even = "#7895b0"
 
 
 link = "#d1b900"
@@ -48,5 +48,5 @@ link_hover = "#b59104"
   home_section_odd = "#00284d"
   home_section_even = "#002547"
 
-  link = "#d1b900"
+  link = "#0003d1"
   link_hover = "#b59104"
