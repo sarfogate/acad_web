@@ -1,10 +1,7 @@
 ---
 # An instance of the Service widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: service
-
-# Activate this widget? true/false
-active: true
+widget: experience
 
 # This file represents a page section.
 headless: true
@@ -62,5 +59,5 @@ experience:
     description: ''
 
 design:
-  columns: '1'
+  columns: '2'
 ---

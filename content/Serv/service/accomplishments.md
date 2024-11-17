@@ -4,7 +4,7 @@
 widget: accomplishments
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -110,5 +110,5 @@ item:
   url: ""
 
 design:
-  columns: '1' 
+  columns: '2' 
 ---

@@ -9,12 +9,12 @@ active: true
 # Design of section
 design:
  background:
-   image: bk.jpg
-   image_darken: 0.30
+   image: mtn.jpg
+   image_darken: 0.20
    image_parallax: true
    image_position: center
    image_size: cover
-   text_color_light: true
+#   text_color_light: true
  spacing:
 #   padding: ["0px", "0", "1px", "0"]
 
@@ -33,7 +33,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Bio
+title: About Me
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
