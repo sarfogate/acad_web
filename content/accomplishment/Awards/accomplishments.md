@@ -32,6 +32,7 @@ item:
   description: ""
   organization: Graduate School, Baylor University, Waco
   organization_url: https://graduate.baylor.edu/
+  company_logo: um
   title: Conference Graduate Travel Grant
   url: ""
 
