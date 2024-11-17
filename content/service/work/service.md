@@ -7,10 +7,10 @@ widget: service
 active: true
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
-weight: 125
+weight: 80
 
 title: Service & Extra-curricular
 subtitle:
