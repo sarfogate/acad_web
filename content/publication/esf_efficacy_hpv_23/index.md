@@ -37,14 +37,7 @@ publication_types:
 publication: ''
 publication_short: ''
 
-abstract: The study examined whether the 3R (reframe, prioritize, and reform) communication model intervention
-can impact parents’ and adolescents’ HPV vaccination acceptability. We used face-to-face methods to recruit participants 
-from three local churches in the Ashanti Region of Ghana. Participants completed pre- and post-intervention assessments 
-based on the validated Theory of Planned Behavior survey. We organized two face-to-face presentations for parents and
-adolescents separately. The intervention showed that for every one-unit  increase in the participants’ self-confidence and attitude scores, 
-the odds of the HPV vaccination acceptability increases. Intention for vaccine acceptance, and attitude toward vaccination, 
-were significantly  higher among parents than adolescents, after controlling for the baseline scores. These findings suggest that the intervention targeting parents’ 
-and adolescents’ attitudes and knowledge has the potential to increase HPV vaccination acceptance in Ghana.
+abstract: 
 
 
 
