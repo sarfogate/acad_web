@@ -25,30 +25,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Instructor
-    company: University of Nevada, Reno
-    company_url: https://www.unr.edu/math
-    company_logo: unr
-    location: Nevada
-    date_start: '2021-07-12'
-    date_end: '2021-08-12'
-    description: ''
-
-  - title: Summer Actuarial Intern
-    company: CAS Student Central
-    company_url: https://www.casact.org/
-    company_logo: cas
-    location: ''
-    date_start: '2021-06-28'
-    date_end: '2021-08-14'
-    description: |2-
-        Casualty Actuarial Society P&C training in:
-        
-        * Ratemaking
-        * Reserving
-        * Predictive Modeling
-        * Data Visualization
-        
   - title: Predictive Modeling Intern
     company: Employers Insurance Group
     company_url: https://www.employers.com/
@@ -70,33 +46,16 @@ experience:
     date_start: '2023-09-01'
     date_end: ''
     description: ''
-# 
-#   - title: Member, Recruitment & Admissions Committee
-#     company: Dept. of Statistics, Michigan
-#     company_url: https://lsa.umich.edu/stats
-#     company_logo: um
-#     location: Michigan
-#     date_start: '2022-01-01'
-#     date_end: ''
-#     description: ''
-# 
-#   - title: Member, Curriculum Committee
-#     company: Dept. of Statistics, Michigan
-#     company_url: https://lsa.umich.edu/stats
-#     company_logo: um
-#     location: Michigan
-#     date_start: '2023-09-01'
-#     date_end: ''
-#     description: ''
-# 
-#   - title: Vice President
-#     company: Actuarial Science Students Association, KNUST
-#     company_url: https://www.casact.org/
-#     company_logo: actuarial_science_students'_association,_knust
-#     location: ''
-#     date_start: '2015-08-01'
-#     date_end: '2016-05-31'
-#     description: '
+
+
+  - title: Vice President
+    company: Actuarial Science Students Association, KNUST
+    company_url: https://www.casact.org/
+    company_logo: actuarial_science_students'_association,_knust
+    location: ''
+    date_start: '2015-08-01'
+    date_end: '2016-05-31'
+    description: '
 
 design:
   columns: '2'
