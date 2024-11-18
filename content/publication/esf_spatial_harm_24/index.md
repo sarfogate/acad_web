@@ -17,11 +17,11 @@ draft: false
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-05-01T00:00:00Z"
+date: "2024-08-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-05-01T00:00:00Z"
+publishDate: "2024-08-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -34,7 +34,7 @@ publication_types:
 publication: ''
 publication_short: ''
 
-abstract: This study explored the use of Random Survival Forests (RSF) to predict the time to resolution of missing persons cases in Montana. RSF was compared to traditional methods like the Cox proportional hazards model and Kaplan-Meier curves. While RSF showed promise in terms of prediction error, its performance was comparable to the Cox model, especially over time. Important factors influencing resolution time, as identified by RSF, included age, region, reservation status, and race.
+abstract: Merging spatial data from different networks can offer several advantages, including accurate prediction and reduced uncertainty. However, data are often collected in different ways, resulting in heterogeneity among networks. Data Harmonization is a statistical approach for merging diverse datasets to ensure compatibility and consistency. In the last decades, vast and complex datasets have been frequently generated. These datasets are typically too large and dynamic to be effectively managed and analyzed using traditional methods. Symbolic data analysis has recently been employed to simplify analysis and summarize information from data instead of using large data sets while retaining as much information as possible. In this study, we propose a harmonized kriging for spatial interval-valued data to perform efficient and accurate prediction for large volumes of spatial data. A simulation study illustrates the superiority of the proposed method as compared to kriging with pooled or referenced data. We demonstrate the application of harmonized kriging using interval-valued temperature data from three distinct monitoring networks in South Korea.
 
 # Summary. An optional shortened abstract.
 summary: ''
