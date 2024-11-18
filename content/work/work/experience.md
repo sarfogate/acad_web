@@ -27,7 +27,7 @@ date_format: Jan 2006
 experience:
 
   - title: Graduate Research Assistant and Consultant
-    company: Statistical Science, Baylor University
+    company: Statistical Science Dept., Baylor University
     company_url: https://statistics.artsandsciences.baylor.edu/
     company_logo: BU
     location: Waco TX
@@ -35,18 +35,21 @@ experience:
     date_end: ''
     description: ''
     
+        * Provide statistical consulting, collaborate on research grants, analyze data for corporate organizations, and assist with research reports.
     
   - title: Teacher of Record
-    company: Statistical Science, Baylor University
+    company: Statistical Science Dept., Baylor University
     company_url: https://statistics.artsandsciences.baylor.edu/
     company_logo: BU
     location: Waco TX
     date_start: '2022-08-12'
     date_end: 
-    description: ''
+    description: |2-
+    
+        * Teach Introductory Statistics, design assignments, hold office hours, and develop learning resources to foster student engagement and success.
 
   - title: Graduate Teaching Assistant and Instructor
-    company: Mathematical Science, Montana State University
+    company: Mathematical Science Dept., Montana State University
     company_url: https://math.montana.edu/
     company_logo: MSU
     location: ''
@@ -68,7 +71,7 @@ experience:
         * Managed customer relations, and aided in risk assessment for loan disbursement by evaluating creditworthiness and adhering to financial regulations 
 
   - title: Radiology Data Analyst
-    company: Radiology, Komfo Anokye Teaching Hospital
+    company: Radiology Dept., Komfo Anokye Teaching Hospital
     company_url: https://kath.gov.gh/
     company_logo: kath
     location: ''
