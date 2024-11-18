@@ -6,6 +6,8 @@ title: "Network Harmonization of Spatial Interval Valued Data."
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Ryu S
+- Lee G
 - Joon Song
 
 draft: false

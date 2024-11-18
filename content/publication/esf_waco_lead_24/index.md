@@ -1,12 +1,15 @@
 ---
-title: "Predicting the presence of Lead pipe materials on the city side for the City of Waco."
+title: "Estimating the Probability of Historical Presence of Lead Service Lines with Firth Logistic Regression."
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Joon Song
+- Kaylee Pascarella
+- admin 
+- Rodney Sturdivant
+- Amanda Hering
+
 
 draft: false
 
