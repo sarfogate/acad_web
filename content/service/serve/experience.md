@@ -51,7 +51,7 @@ experience:
   - title: Vice President
     company: Actuarial Science Students Association, KNUST
     company_url: https://www.casact.org/
-    company_logo: actuarial_science_students'_association,_knust
+    company_logo: bayloruniversity
     location: ''
     date_start: '2015-08-01'
     date_end: '2016-05-31'
