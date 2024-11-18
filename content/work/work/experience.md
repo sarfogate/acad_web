@@ -33,7 +33,7 @@ experience:
     location: Waco TX
     date_start: '2022-08-12'
     date_end: ''
-    description: ''
+    description: |2-
     
         * Provide statistical consulting, collaborate on research grants, analyze data for corporate organizations, and assist with research reports.
     
