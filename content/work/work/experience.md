@@ -32,7 +32,7 @@ experience:
     company_logo: BU
     location: Waco TX
     date_start: '2022-08-12'
-    date_end: '2024-05-30'
+    date_end: ''
     description: ''
     
     
@@ -42,7 +42,7 @@ experience:
     company_logo: BU
     location: Waco TX
     date_start: '2022-08-12'
-    date_end: '2024-05-30'
+    date_end: 
     description: ''
 
   - title: Graduate Teaching Assistant and Instructor
@@ -53,8 +53,7 @@ experience:
     date_start: '2019-09-01'
     date_end: '2021-05-30'
     description: |2-
-        Casualty Actuarial Society P&C training in:
-        
+
         * Taught STAT 216, provided tutoring at the Math Learning Center, and assisted with data analyses in research and consulting projects.
 
   - title: Personal Banker
@@ -76,12 +75,8 @@ experience:
     date_start: '2019-09-01'
     date_end: '2021-05-30'
     description: |2-
-        Casualty Actuarial Society P&C training in:
         
-        * Ratemaking
-        * Reserving
-        * Predictive Modeling
-        * Data Visualization      
+        * Analyzed waiting times, conducted patient data examinations, estimated costs, and developed reports to improve service effectiveness.
 
 design:
   columns: '2'
