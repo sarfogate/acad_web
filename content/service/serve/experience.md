@@ -52,9 +52,6 @@ experience:
     date_end: ''
     description: ''
 
-TEach
-
-
   - title: Instructor
     company: University of Nevada, Reno
     company_url: https://www.unr.edu/math
