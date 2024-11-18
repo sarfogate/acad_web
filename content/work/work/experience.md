@@ -75,6 +75,21 @@ experience:
         * Predictive Modeling
         * Data Visualization
         
+  - title: Radiology Data Analyst
+    company: Radiology, Komfo Anokye Teaching Hospital
+    company_url: https://kath.gov.gh/
+    company_logo: kath
+    location: ''
+    date_start: '2019-09-01'
+    date_end: '2021-05-30'
+    description: |2-
+        Casualty Actuarial Society P&C training in:
+        
+        * Ratemaking
+        * Reserving
+        * Predictive Modeling
+        * Data Visualization      
+        
   # - title: Personal Banker
   #   company: Mon-Tran Limited/Bond Savings and Loan Limited
   #   company_url: https://www.linkedin.com/company/bond-savings-&-loans/?originalSubdomain=gh
