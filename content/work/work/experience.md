@@ -59,6 +59,21 @@ experience:
         * Reserving
         * Predictive Modeling
         * Data Visualization
+
+  - title: Personal Banker
+    company: Bond Savings and Loan Limited
+    company_url: https://math.montana.edu/
+    company_logo: MSU
+    location: ''
+    date_start: '2019-09-01'
+    date_end: '2021-05-30'
+    description: |2-
+        Casualty Actuarial Society P&C training in:
+        
+        * Ratemaking
+        * Reserving
+        * Predictive Modeling
+        * Data Visualization
         
   # - title: Personal Banker
   #   company: Mon-Tran Limited/Bond Savings and Loan Limited
