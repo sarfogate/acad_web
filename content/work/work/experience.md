@@ -64,8 +64,8 @@ experience:
     company_url: ''
     company_logo: bond
     location: ''
-    date_start: '2019-09-01'
-    date_end: '2021-05-30'
+    date_start: '2018-10-01'
+    date_end: '2019-07-30'
     description: |2-
 
         * Managed customer relations, and aided in risk assessment for loan disbursement by evaluating creditworthiness and adhering to financial regulations 
@@ -75,8 +75,8 @@ experience:
     company_url: https://kath.gov.gh/
     company_logo: kath
     location: ''
-    date_start: '2019-09-01'
-    date_end: '2021-05-30'
+    date_start: '2017-09-01'
+    date_end: '2018-08-30'
     description: |2-
         
         * Analyzed waiting times, conducted patient data examinations, estimated costs, and developed reports to improve service effectiveness.
