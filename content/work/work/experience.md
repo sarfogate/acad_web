@@ -60,19 +60,19 @@ experience:
         * Predictive Modeling
         * Data Visualization
         
-  # - title: Personal Banker 
-  #   company: Mon-Tran Limited/Bond Savings and Loan Limited
-  #   company_url: https://www.bond.com.gh
-  #   company_logo: bond
-  #   location: Kumasi, Ghana
-  #   date_start: '2018-10-1'
-  #   date_end: '2019-07-30'
-  #   description: |2-
-  #             
-  #       * Performed Territorial Analysis on claim frequencies using Spatially Constrained Clustering Algorithms and Generalized Additive Models to re-cluster rating territories for refining pricing models.
-  #       * Built Loss Development Models to estimate future losses using Elastic-Net Poisson GLM. 
-  #       * Built Pure Premium models using GLMs and Zero-Inflated Models to predict future loss costs.
-  # 
+  - title: Personal Banker
+    company: Mon-Tran Limited/Bond Savings and Loan Limited
+    company_url: https://www.bond.com.gh
+    company_logo: bond
+    location: Kumasi, Ghana
+    date_start: '2018-10-1'
+    date_end: '2019-07-30'
+    description: |2-
+
+        * Performed Territorial Analysis on claim frequencies using Spatially Constrained Clustering Algorithms and Generalized Additive Models to re-cluster rating territories for refining pricing models.
+        * Built Loss Development Models to estimate future losses using Elastic-Net Poisson GLM.
+        * Built Pure Premium models using GLMs and Zero-Inflated Models to predict future loss costs.
+
   # - title: Radiology Data Analyst
   #   company: Radiology, Komfo Anokye Teaching Hospital    
   #   company_url: https://kath.gov.gh/
