@@ -1,12 +1,17 @@
 ---
-title: "Network Harmonization of Spatial IntervalValued Data."
+title: "Assessing the Efficacy of the 3R (Reframe, Reprioritize, and Reform) Communication Model to Increase HPV Vaccinations Acceptance in Ghana: Community-Based Intervention."
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Matthew Asare
+- Peter Agyei-Baffour
+- Adofo Koranteng -
+- Mary E. Commeh 
 - admin
-- Joon Song
+- Anjelica Elizondo 
+- Rodney X. Sturdivant
 
 draft: false
 
@@ -15,11 +20,11 @@ draft: false
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-05-01T00:00:00Z"
+date: "2023-04-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-05-01T00:00:00Z"
+publishDate: "2023-04-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
