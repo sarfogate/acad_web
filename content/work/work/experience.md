@@ -31,7 +31,7 @@ experience:
     company_url: https://statistics.artsandsciences.baylor.edu/
     company_logo: BU
     location: Waco TX
-    date_start: '2022-08-12'
+    date_start: '2021-07-12'
     date_end: ''
     description: |2-
     
