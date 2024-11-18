@@ -37,7 +37,7 @@ publication_types:
 publication: ''
 publication_short: ''
 
-abstract: 
+abstract: The 3R communication model effectively increased HPV vaccination acceptability among parents and adolescents in Ghana, particularly influencing their attitudes, self-confidence, and intention to vaccinate. Parents showed significantly higher levels of positive attitudes and intentions compared to adolescents.
 
 
 
