@@ -28,7 +28,7 @@ main:
   - name: Awards
     url: '/accomplishment'
     weight: 45
-  - name: Work experience
+  - name: Experience
     url: '/work'
     weight: 40
 #  - name: Publications
