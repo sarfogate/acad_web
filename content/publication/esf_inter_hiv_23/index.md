@@ -1,12 +1,17 @@
 ---
-title: "Network Harmonization of Spatial IntervalValued Data."
+title: "An intervention to increase cervical cancer screening among women living with HIV: A mixed methods study."
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Joon Song
+- Matthew Asare
+- Dorcas Obiri-Yeboah
+- Nancy Innocentia Ebu Enyan
+- Gloria Nuer-Allornuvor
+- admin 
+- Sebastian Ken-Amoah 
+- Patrick Kafui Akakpo g
 
 draft: false
 
@@ -32,7 +37,7 @@ publication_types:
 publication: ''
 publication_short: ''
 
-abstract: This study explored the use of Random Survival Forests (RSF) to predict the time to resolution of missing persons cases in Montana. RSF was compared to traditional methods like the Cox proportional hazards model and Kaplan-Meier curves. While RSF showed promise in terms of prediction error, its performance was comparable to the Cox model, especially over time. Important factors influencing resolution time, as identified by RSF, included age, region, reservation status, and race.
+abstract: This study evaluated the effectiveness of a 3R model-based behavioral intervention to promote cervical cancer screening among HIV-positive women in Ghana. The intervention group, receiving voice-recorded messages, achieved a high screening rate compared to the control group. Additionally, a high prevalence of high-risk HPV genotypes was observed. The intervention proved acceptable, feasible, and appropriate, leading to increased screening and early detection of pre-cancerous lesions.
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -54,7 +59,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://doi.org/10.1016/j.pec.2023.107993'
 url_video: ''
 
 # Featured image
