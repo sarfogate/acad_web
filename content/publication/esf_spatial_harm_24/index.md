@@ -1,12 +1,14 @@
 ---
-title: "A Simulation Study on High Dimensional Shrinkage Feature
-Selection Using MCMC Methods"
+title: "Network Harmonization of Spatial Interval-Valued Data"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Soorok Ryu  
+- GyuWon Lee 
+- Joon Jin Song
 
 draft: false
 
@@ -32,24 +34,18 @@ publication_types:
 publication: ''
 publication_short: ''
 
-abstract: Linear regression sometimes present us with the problem of 
- high dimensionality –especially when the covariates, p is far greater than
- the sample size, n. A frequentist approach to tackling such problems include
- adopting shrinkage methods via penalization. However, penalization methods
- present yet another challenge of quantifying parameter uncertainties.
- Bayesian approach gives us the power to quantity parameters via estimating
- the posterior distribution for such parameters using Markov Chain
- Monte Carlo (MCMC) techniques. With such high dimensional shrinkage methods,
- we need super fast MCMC algorithms that are efficient and 
- computationally relative inexpensive. In this simulation study, 
- we compare and show that the two-Block Gibbs samplers (2BG) is a more efficient
- state of the art MCMC algorithm relative to the three-Block Gibbs samplers (3BG)
- method in estimating the posterior distributions of two commonly used
- Bayesian shrinkage models, viz the Bayesian Lasso (BL) and the Spike-and-Slab
- shrinkage priors. Our criteria for evaluation include the one-lag autocorrelation
- and the average effective sample size per second, Neff/T. Consequently,
- we apply these methods on the protein expression genetics data from the
- National cancer Institute. 
+abstract: Merging spatial data from different networks can offer several advantages,
+including accurate prediction and reduced uncertainty. However, data are often collected in different ways,
+resulting in heterogeneity among networks. Data Harmonization is a statistical approach for merging diverse
+datasets to ensure compatibility and consistency. In the last decades, vast and complex datasets have been
+frequently generated. These datasets are typically too large and dynamic to be effectively managed
+and analyzed using traditional methods. Symbolic data analysis has recently been employed to simplify 
+analysis and summarize information from data instead of using large data sets while retaining as much 
+information as possible. In this study, we propose a harmonized kriging for spatial interval-valued data
+to perform efficient and accurate prediction for large volumes of spatial data. 
+A simulation study illustrates the superiority of the proposed method as compared to kriging
+with pooled or referenced data. We demonstrate the application of harmonized kriging using 
+interval-valued temperature data from three distinct monitoring networks in South Korea. 
 
 # Summary. An optional shortened abstract.
 summary: ''
