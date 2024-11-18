@@ -52,9 +52,9 @@ experience:
     date_end: ''
     description: ''
 
-subtitle:wrtt
+TEach
 
-experience:
+
   - title: Instructor
     company: University of Nevada, Reno
     company_url: https://www.unr.edu/math
