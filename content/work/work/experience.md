@@ -45,7 +45,45 @@ experience:
     date_end: '2024-05-30'
     description: ''
 
-
+  - title: Graduate Teaching Assistant and Instructor
+    company: Mathematical Science, Montana State University
+    company_url: https://math.montana.edu/
+    company_logo: MSU
+    location: ''
+    date_start: '2021-06-28'
+    date_end: '2021-08-14'
+    description: |2-
+        Casualty Actuarial Society P&C training in:
+        
+        * Ratemaking
+        * Reserving
+        * Predictive Modeling
+        * Data Visualization
+        
+  # - title: Personal Banker 
+  #   company: Mon-Tran Limited/Bond Savings and Loan Limited
+  #   company_url: https://www.bond.com.gh
+  #   company_logo: bond
+  #   location: Kumasi, Ghana
+  #   date_start: '2018-10-1'
+  #   date_end: '2019-07-30'
+  #   description: |2-
+  #             
+  #       * Performed Territorial Analysis on claim frequencies using Spatially Constrained Clustering Algorithms and Generalized Additive Models to re-cluster rating territories for refining pricing models.
+  #       * Built Loss Development Models to estimate future losses using Elastic-Net Poisson GLM. 
+  #       * Built Pure Premium models using GLMs and Zero-Inflated Models to predict future loss costs.
+  # 
+  # - title: Radiology Data Analyst
+  #   company: Radiology, Komfo Anokye Teaching Hospital    
+  #   company_url: https://kath.gov.gh/
+  #   company_logo: bond
+  #   location: Kumasi, Ghana
+  #   date_start: '2018-08-03'
+  #   date_end: '2019-06-14'
+  #   description: |2-
+  #             
+  #       * Taught Cambridge O and A Level Mathematics to prepare students for the IGCSE exams. 
+  #       * Rated distinction in teaching within first 3 months into the job.
 
 design:
   columns: '2'
