@@ -55,10 +55,7 @@ experience:
     description: |2-
         Casualty Actuarial Society P&C training in:
         
-        * Ratemaking
-        * Reserving
-        * Predictive Modeling
-        * Data Visualization
+        * Taught STAT 216, provided tutoring at the Math Learning Center, and assisted with data analyses in research and consulting projects.
 
   - title: Personal Banker
     company: Bond Savings and Loan Limited
@@ -68,13 +65,9 @@ experience:
     date_start: '2019-09-01'
     date_end: '2021-05-30'
     description: |2-
-        Casualty Actuarial Society P&C training in:
-        
-        * Ratemaking
-        * Reserving
-        * Predictive Modeling
-        * Data Visualization
-        
+
+        * Managed customer relations, and aided in risk assessment for loan disbursement by evaluating creditworthiness and adhering to financial regulations 
+
   - title: Radiology Data Analyst
     company: Radiology, Komfo Anokye Teaching Hospital
     company_url: https://kath.gov.gh/
