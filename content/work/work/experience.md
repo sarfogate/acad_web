@@ -50,8 +50,8 @@ experience:
     company_url: https://math.montana.edu/
     company_logo: MSU
     location: ''
-    date_start: '2021-06-28'
-    date_end: '2021-08-14'
+    date_start: '2019-09-01'
+    date_end: '2021-05-30'
     description: |2-
         Casualty Actuarial Society P&C training in:
         
@@ -62,7 +62,7 @@ experience:
         
   - title: Personal Banker
     company: Mon-Tran Limited/Bond Savings and Loan Limited
-    company_url: https://www.bond.com.gh
+    company_url: https://www.linkedin.com/company/bond-savings-&-loans/?originalSubdomain=gh
     company_logo: BU
     location: Kumasi, Ghana
     date_start: '2018-10-1'
@@ -78,8 +78,8 @@ experience:
     company_url: https://kath.gov.gh/
     company_logo: BU
     location: Kumasi, Ghana
-    date_start: '2018-08-03'
-    date_end: '2019-06-14'
+    date_start: '2017-09-03-1'
+    date_end: '2018-08-30'
     description: |2-
 
         * Taught Cambridge O and A Level Mathematics to prepare students for the IGCSE exams.
