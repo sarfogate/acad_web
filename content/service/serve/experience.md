@@ -44,7 +44,7 @@ experience:
     description: ''
 
   - title: Member, Recruitment & Admissions Committee
-    company: Dept. of Statistics, Michigan
+    company: Dept. of Statistics, Michigan %>% 
     company_url: https://lsa.umich.edu/stats
     company_logo: um
     location: Michigan
