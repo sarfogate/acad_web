@@ -1,13 +1,12 @@
 ---
-title: "A Bayesian Hierarchical Model for US Election Data"
+title: "Statistical Learning for Duration Analysis, with application to missing persons data in Montana."
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Connor Dayton
-- Jaucelyn Canfield
+- Dr. Mark Greenwood
 
 draft: false
 
@@ -33,8 +32,7 @@ publication_types:
 publication: ''
 publication_short: ''
 
-abstract: We compare federal election results for each state versus the USA in every second year from 1992 to 2016 to model partisan lean of each state and its dependence on the nationwide popular vote. For each state, we model both its current partisan lean and its rate of change, as well as sensitivity of state results with respect to the nationwide popular vote, using a Bayesian Hierarchical Model. We then apply this model to predict and compare results with the actual values for the 2018 election.
-
+abstract: This study explored the use of Random Survival Forests (RSF) to predict the time to resolution of missing persons cases in Montana. RSF was compared to traditional methods like the Cox proportional hazards model and Kaplan-Meier curves. While RSF showed promise in terms of prediction error, its performance was comparable to the Cox model, especially over time. Important factors influencing resolution time, as identified by RSF, included age, region, reservation status, and race.
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -62,7 +60,8 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'MCMC diagnostic plots'
+  caption: 'Cox PH output: Reference level of categorical covariates denoted reference and
+have estimated HR of 1'
   focal_point: Smart
   placement: 1
   preview_only: false

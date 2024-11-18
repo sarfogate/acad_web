@@ -22,9 +22,9 @@ main:
   - name: Research
     url: '/publication/'
     weight: 60
-  - name: Software
-    url: '/software/'
-    weight: 100
+  # - name: Software
+  #   url: '/software/'
+  #   weight: 100
   - name: Awards
     url: '/accomplishment'
     weight: 45
