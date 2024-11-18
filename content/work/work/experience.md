@@ -63,7 +63,7 @@ experience:
   - title: Personal Banker
     company: Bond Savings and Loan Limited
     company_url: https://math.montana.edu/
-    company_logo: MSU
+    company_logo: bond
     location: ''
     date_start: '2019-09-01'
     date_end: '2021-05-30'
