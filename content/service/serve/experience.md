@@ -28,7 +28,7 @@ experience:
   - title: Instructor
     company: University of Nevada, Reno
     company_url: https://www.unr.edu/math
-    company_logo: unr
+    company_logo: bayloruniversity
     location: Nevada
     date_start: '2021-07-12'
     date_end: '2021-08-12'
