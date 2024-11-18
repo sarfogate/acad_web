@@ -76,7 +76,7 @@ experience:
   - title: Radiology Data Analyst
     company: Radiology, Komfo Anokye Teaching Hospital    
     company_url: https://kath.gov.gh/
-    company_logo: kath
+    company_logo: bond
     location: Kumasi, Ghana
     date_start: '2018-08-03'
     date_end: '2019-06-14'
