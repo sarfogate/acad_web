@@ -34,34 +34,6 @@ experience:
     date_end: '2021-08-12'
     description: ''
 
-  - title: Summer Actuarial Intern
-    company: CAS Student Central
-    company_url: https://www.casact.org/
-    company_logo: cas
-    location: ''
-    date_start: '2021-06-28'
-    date_end: '2021-08-14'
-    description: |2-
-        Casualty Actuarial Society P&C training in:
-        
-        * Ratemaking
-        * Reserving
-        * Predictive Modeling
-        * Data Visualization
-        
-  - title: Predictive Modeling Intern
-    company: Employers Insurance Group
-    company_url: https://www.employers.com/
-    company_logo: eig
-    location: Nevada
-    date_start: '2020-05-26'
-    date_end: '2020-08-14'
-    description: |2-
-              
-        * Performed Territorial Analysis on claim frequencies using Spatially Constrained Clustering Algorithms and Generalized Additive Models to re-cluster rating territories for refining pricing models.
-        * Built Loss Development Models to estimate future losses using Elastic-Net Poisson GLM. 
-        * Built Pure Premium models using GLMs and Zero-Inflated Models to predict future loss costs.
-
   - title: Member, Computing Committee
     company: Dept. of Statistics, Michigan
     company_url: https://lsa.umich.edu/stats
