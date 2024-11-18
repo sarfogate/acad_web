@@ -18,11 +18,11 @@ draft: false
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-05-01T00:00:00Z"
+date: "2024-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-05-01T00:00:00Z"
+publishDate: "2024-09-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -35,7 +35,8 @@ publication_types:
 publication: ''
 publication_short: ''
 
-abstract: This study explored the use of Random Survival Forests (RSF) to predict the time to resolution of missing persons cases in Montana. RSF was compared to traditional methods like the Cox proportional hazards model and Kaplan-Meier curves. While RSF showed promise in terms of prediction error, its performance was comparable to the Cox model, especially over time. Important factors influencing resolution time, as identified by RSF, included age, region, reservation status, and race.
+abstract: The United States Environmental Protection Agency is requiring any service line that is galvanized steel on the customer side that is or has ever been downstream of a lead service line to be replaced. Thus, among those galvanized steel service lines on the customer side, the city must identify upstream public service lines that are or were ever lead. The city provided data on over 14,000 public service lines that are upstream of galvanized steel customer lines, of which the material of 8,439 are known and 6,008 are unknown. We find the most important predictor in the model is “presence of another lead service line on the same block,” followed by “the material of the service line of the closest neighbor.” 
+
 
 # Summary. An optional shortened abstract.
 summary: ''
