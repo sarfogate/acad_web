@@ -1,12 +1,12 @@
 ---
-title: "A Survival Analysis of the Surrender of Life Insurance Policies of Life Insurance Companies in Ghana"
+title: "Network Harmonization of Spatial IntervalValued Data."
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- David Kweku
+- Joon Song
 
 draft: false
 
@@ -15,11 +15,11 @@ draft: false
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2017-05-28T00:00:00Z"
+date: "2021-05-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-05-28T00:00:00Z"
+publishDate: "2021-05-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,7 +32,7 @@ publication_types:
 publication: ''
 publication_short: ''
 
-abstract: In recent years, life insurance companies in Ghana have had to grapple with the challenge of policy surrenders, as the rate keeps increasing to unprecedented levels by the day, in spite of the increasing education and awareness to boost the insurance penetration rate, which is currently below two per cent (2%). The factors having significant effects on surrender of life policies, however, are company specific. This study was therefore conducted to estimate the prospect of a life policyholder surrendering, and to identify the factors having significant effects on this surrender in the life insurance companies. With regards to these study objectives, secondary data was obtained from the SIC Life from the period of 1st January, 1998 to 31st December 2016, constituting a data size of 73642 policyholders. The Kaplan-Meier estimates were computed for these data points to identify what time period experienced most surrender after which a Cox-Proportional Hazard(Cox-ph) was fitted to the data. Results indicated that at 5% level of significance, gender, income level, customer’s dissatisfaction with services provided, need for emergency fund, interest rate arbitrage and subscription onto new policies proved to have significant effect on policy surrender.
+abstract: This study explored the use of Random Survival Forests (RSF) to predict the time to resolution of missing persons cases in Montana. RSF was compared to traditional methods like the Cox proportional hazards model and Kaplan-Meier curves. While RSF showed promise in terms of prediction error, its performance was comparable to the Cox model, especially over time. Important factors influencing resolution time, as identified by RSF, included age, region, reservation status, and race.
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -48,19 +48,20 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'osafoagyare-coxph-2017.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'osafoagyare-coxph-2017-slides.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Cox-Snell residuals'
+  caption: 'Cox PH output: Reference level of categorical covariates denoted reference and
+have estimated HR of 1'
   focal_point: Smart
   placement: 1
   preview_only: false

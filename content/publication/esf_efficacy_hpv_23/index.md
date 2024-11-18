@@ -1,13 +1,12 @@
 ---
-title: "Prediction of Metastasis Event using Hierarchical Classification with Elastic Nets"
+title: "Network Harmonization of Spatial IntervalValued Data."
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Alec Chu
-- Blessing I. Oloyede
+- Joon Song
 
 draft: false
 
@@ -16,11 +15,11 @@ draft: false
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2022-12-05T00:00:00Z"
+date: "2021-05-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-12-05T00:00:00Z"
+publishDate: "2021-05-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -33,7 +32,7 @@ publication_types:
 publication: ''
 publication_short: ''
 
-abstract: Metastasis is major contributor towards cancer-related mortality and can be difficult to detect during early stages. The ability to identify cancers that may have already metastasized can help increase patient survival. In this study, we utilize publicly available expression profile datasets of cancers from primary sites with or without distal metastasis. We train an elastic net models to predict the origin of primary cancer tissue and whether the primary cancer has metastasized or not. Using the elastic-net for hierarchical classification, we were able to predict the origin tissue at an accuracy of 97% and whether the cancer has already metastasized at an accuracy of 90%. When examining the top influential genes in the model we find that many mitochondrial genes were negatively correlated with metastasis.
+abstract: This study explored the use of Random Survival Forests (RSF) to predict the time to resolution of missing persons cases in Montana. RSF was compared to traditional methods like the Cox proportional hazards model and Kaplan-Meier curves. While RSF showed promise in terms of prediction error, its performance was comparable to the Cox model, especially over time. Important factors influencing resolution time, as identified by RSF, included age, region, reservation status, and race.
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -49,19 +48,20 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'osafoagyare-metastasis-2022.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'osafoagyare-metastasis-2022-slide.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Hierarchical classification tree'
+  caption: 'Cox PH output: Reference level of categorical covariates denoted reference and
+have estimated HR of 1'
   focal_point: Smart
   placement: 1
   preview_only: false
