@@ -84,7 +84,4 @@ design:
 ---
 
 
-Teaching
----
-kk
----
+
