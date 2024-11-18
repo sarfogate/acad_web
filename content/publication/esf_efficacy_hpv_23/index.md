@@ -37,7 +37,23 @@ publication_types:
 publication: ''
 publication_short: ''
 
-abstract: This study explored the use of Random Survival Forests (RSF) to predict the time to resolution of missing persons cases in Montana. RSF was compared to traditional methods like the Cox proportional hazards model and Kaplan-Meier curves. While RSF showed promise in terms of prediction error, its performance was comparable to the Cox model, especially over time. Important factors influencing resolution time, as identified by RSF, included age, region, reservation status, and race.
+abstract: The study examined whether the 3R (reframe, prioritize, and reform) communication model intervention
+can impact parents’ and adolescents’ HPV vaccination acceptability. We used face-to-face methods to recruit 
+participants from three local churches in the Ashanti Region of Ghana. Participants completed pre- and 
+post-intervention assessments based on the validated Theory of Planned Behavior survey. 
+We organized two face-to-face presentations for parents and adolescents separately for parents 
+(n = 85) and adolescents (n = 85). Participants’ post-intervention vs. pre-intervention scores for 
+attitude (mean = 35.46 ± SD = 5.46 vs. mean = 23.42 ± SD = 8.63), knowledge (M = 28.48 ± SD = 5.14 vs. 
+M = 16.56 ± SD = 7.19), confidence (M = 8.96 ± SD = 3.43 vs. M = 6.17 ± SD = 2.84), and intention for vaccine 
+acceptance (M = 4.73 ± SD = 1.78 vs. M = 3.29 ± SD = 1.87) increased significantly (p < 0.001). The intervention
+showed that for every one-unit increase in the participants’ self-confidence and attitude scores, the odds of the
+HPV vaccination acceptability increased by 22% (95% CI: 10–36) and 6% (95% CI: 0.1–12), respectively. Intention 
+for vaccine acceptance, F (1167) = 6.89, and attitude toward vaccination, F (1167) = 19.87, were significantly 
+higher among parents than adolescents (p < 0.001), after controlling for the baseline scores. These findings 
+suggest that the intervention targeting parents’ and adolescents’ attitudes and knowledge has the potential to
+increase HPV vaccination acceptance in Ghana.
+
+
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -59,7 +75,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: https://www.mdpi.com/2076-393X/11/5/890
 url_video: ''
 
 # Featured image
