@@ -63,7 +63,7 @@ experience:
   - title: Personal Banker
     company: Mon-Tran Limited/Bond Savings and Loan Limited
     company_url: https://www.bond.com.gh
-    company_logo: bond
+    company_logo: kath
     location: Kumasi, Ghana
     date_start: '2018-10-1'
     date_end: '2019-07-30'
