@@ -6,8 +6,8 @@ title: "Network Harmonization of Spatial Interval Valued Data."
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Ryu S
-- Lee G
+- Soorok Ryu
+- GyuWon Lee
 - Joon Song
 
 draft: false
@@ -62,8 +62,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Cox PH output: Reference level of categorical covariates denoted reference and
-have estimated HR of 1'
+  caption: 'Interpolation plots of SIVD'
   focal_point: Smart
   placement: 1
   preview_only: false
