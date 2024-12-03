@@ -14,16 +14,14 @@ organizations:
   url: https://statistics.artsandsciences.baylor.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: " "
+bio: " hello "
 
 # Interests to show in About widget
 interests:
 - Statistical Genetics and Genomics
-- Spatial Data Harmonization/Integration
-- Spatial disease mapping
+- Spatial disease mapping & Data Harmonization
 - Biostatistics & Survival Analysis
-- Statistics in Forensic
-- Public Health
+- Statistics in Public Health & Forensic
 - Statistical Machine Learning
 
 # Education to show in About widget
