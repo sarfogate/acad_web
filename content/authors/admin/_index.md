@@ -14,7 +14,7 @@ organizations:
   url: https://statistics.artsandsciences.baylor.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: " hello "
+bio: ""
 
 # Interests to show in About widget
 interests:
@@ -79,8 +79,6 @@ highlight_name: false
 user_groups:
 - Teachers
 ---
-
-  Welcome!
 
   I am currently a 4th-year PhD candidate in the [Statistics Science program](https://statistics.artsandsciences.baylor.edu/) at Baylor University, located in Waco, TX. My academic journey began in the Ashanti region of Ghana, where I was born and raised. I earned my Bachelor’s degree in Actuarial Science from Kwame Nkrumah University of Science and Technology (KNUST). Following this, I pursued and obtained a Master of Science degree in Statistics from Montana State University, under the esteemed supervision of [Dr. Mark Greenwood](https://math.montana.edu/directory/faculty/1524138/mark-greenwood).
 
