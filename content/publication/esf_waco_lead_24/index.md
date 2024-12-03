@@ -64,8 +64,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Cox PH output: Reference level of categorical covariates denoted reference and
-have estimated HR of 1'
+  caption: 'Illustration of pipe setup in the city'
   focal_point: Smart
   placement: 1
   preview_only: false
