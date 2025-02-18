@@ -28,14 +28,14 @@ interests:
 education:
   courses:
   - course: PhD Statistics
-    institution: Baylor University, Waco-TX
+    institution: [Baylor University, Waco-TX](https://statistics.artsandsciences.baylor.edu/)
     year: 2026 (Expected)
     
-  - course: MSs Statistics
+  - course: MSc Statistics
     institution: Montana State University, Bozeman-MT
     year: 2021
     
-  - course: BSs Actuarial Science
+  - course: BSc Actuarial Science
     institution: Kwame Nkrumah University of Science & Technology, Kumasi - GH
     year: 2017
 
