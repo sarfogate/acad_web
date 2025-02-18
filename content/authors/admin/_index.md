@@ -84,7 +84,12 @@ user_groups:
 
   At Baylor University, I am privileged to work under the guidance of [Dr. Joon J. Song](https://statistics.artsandsciences.baylor.edu/person/dr-joon-jin-song) and [Dr. Thierry Chekouo](https://sites.google.com/site/chekouoresearch/home?authuser=0). My current research is centered on the application of spatial methodology in modeling predictions within symbolic data, as well as the detection of spatially expressed genes in spatial transcriptomic analysis. This work aims to advance our understanding and capabilities in these cutting-edge areas of statistical science.
 
-  Beyond my academic and research pursuits, I find joy in various personal interests. I am an avid music enthusiast and cherish the moments spent with my fiancée, friends, and family. Additionally, I enjoy watching soccer and basketball, which provide a delightful balance to my professional endeavors.
+  Beyond my academic and research pursuits, I am a passionate music enthusiast and enjoy spending time with my partner, friends, and family. I also love watching soccer and basketball, which provide a perfect balance to my research and studies.
+
+
+
+
+
 
 
 
