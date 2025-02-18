@@ -1,5 +1,6 @@
 ---
 title: Research
+type: "widget_page"
 cms_exclude: true
 # View.
 #   1 = List

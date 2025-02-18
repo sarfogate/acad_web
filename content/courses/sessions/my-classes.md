@@ -31,7 +31,6 @@ design:
 
     - Fall 2023 & Spring 2024
 
-
 ### Graduate Teaching Assistant & Tutor, Baylor University, Waco TX
 - STAT 1380 - Elementary Statistics 
     
@@ -41,12 +40,10 @@ design:
 
     - Fall 2021 & Spring 2022
 
-
 ### Graduate Teaching Instructor, Montana State University, Bozeman MT
 - STAT 216  Introduction to Statistics
 
-    - Fall 2020 - Spring 2021
-
+    - Fall 2020 & Spring 2021
 
 ### Graduate Teaching Assistant, Montana State University, Bozeman MT
 - STAT 216  Introduction to Statistics 
