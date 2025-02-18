@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: PhD Statistics
-    institution: [Baylor University, Waco-TX](https://statistics.artsandsciences.baylor.edu/)
+    institution: Baylor University, Waco-TX
     year: 2026 (Expected)
     
   - course: MSc Statistics
