@@ -25,9 +25,11 @@ design:
 ---
 
 ### Teacher of Record, Baylor University, Waco TX
-- STAT 1380 - Elementary Statistics &nbsp; || &nbsp; Fall 2022 & Spring 2023 & 
+- STAT 1380 - Elementary Statistics
+                
+    - Fall 2022 & Spring 2023
 
-                                              Fall 2023 & Spring 2024
+    - Fall 2023 & Spring 2024
 
 
 ### Graduate Teaching Assistant & Tutor, Baylor University, Waco TX
