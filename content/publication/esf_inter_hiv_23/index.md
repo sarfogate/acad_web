@@ -11,7 +11,7 @@ authors:
 - Gloria Nuer-Allornuvor
 - admin 
 - Sebastian Ken-Amoah 
-- Patrick Kafui Akakpo g
+- Patrick Kafui Akakpo
 
 draft: false
 
